@@ -1,0 +1,6 @@
+# harga = float(input("Masukkan harga: "))
+# diskon = harga - (harga * 0.1)
+# print(f'harga setelah diskon {diskon}')
+harga_mobil = float(input('Masukan harga: '))
+diskon = harga_mobil - (harga_mobil *0.1)
+print(f'Harga diskon mobil ini adalah {diskon}!')
