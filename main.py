@@ -57,4 +57,3 @@ def get_fox_image_url():
 async def fox(ctx):
     image_url = get_fox_image_url()
     await ctx.send(image_url)         
-bot.run("MTIyMzI0Nzk4ODE4NTM2NjU3OA.GEtzPf.8ShfiP3WipqIMbNF_75XxukAzKA0MFoD6uW1YQ")
